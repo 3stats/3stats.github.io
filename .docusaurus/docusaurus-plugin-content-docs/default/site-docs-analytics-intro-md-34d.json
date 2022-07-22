@@ -1,0 +1,20 @@
+{
+  "unversionedId": "analytics/intro",
+  "id": "analytics/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/analytics/intro.md",
+  "sourceDirName": "analytics",
+  "slug": "/analytics/intro",
+  "permalink": "/analytics/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/analytics/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/intro"
+  }
+}

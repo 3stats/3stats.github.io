@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Decentraland/SDK",
+  "id": "Decentraland/SDK",
+  "title": "SDK",
+  "description": "Installation",
+  "source": "@site/docs/Decentraland/SDK.md",
+  "sourceDirName": "Decentraland",
+  "slug": "/Decentraland/SDK",
+  "permalink": "/Decentraland/SDK",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Decentraland/SDK.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/Decentraland/Introduction"
+  },
+  "next": {
+    "title": "Smart Item",
+    "permalink": "/Decentraland/SmartItem"
+  }
+}

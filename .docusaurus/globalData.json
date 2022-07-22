@@ -11,6 +11,26 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Dashboard/intro",
+              "path": "/Dashboard/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Decentraland/Introduction",
+              "path": "/Decentraland/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Decentraland/SDK",
+              "path": "/Decentraland/SDK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Decentraland/SmartItem",
+              "path": "/Decentraland/SmartItem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/intro",
               "sidebar": "tutorialSidebar"

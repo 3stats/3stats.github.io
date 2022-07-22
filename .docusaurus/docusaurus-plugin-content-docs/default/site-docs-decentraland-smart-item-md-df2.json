@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Decentraland/SmartItem",
+  "id": "Decentraland/SmartItem",
+  "title": "Smart Item",
+  "description": "Installation",
+  "source": "@site/docs/Decentraland/SmartItem.md",
+  "sourceDirName": "Decentraland",
+  "slug": "/Decentraland/SmartItem",
+  "permalink": "/Decentraland/SmartItem",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Decentraland/SmartItem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK",
+    "permalink": "/Decentraland/SDK"
+  }
+}

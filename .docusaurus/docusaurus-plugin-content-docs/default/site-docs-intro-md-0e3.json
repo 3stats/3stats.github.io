@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Introduction",
+  "description": "Welcome to the [3stats] documentation website!",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -15,5 +15,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/Dashboard/intro"
+  }
 }

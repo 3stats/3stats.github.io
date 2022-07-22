@@ -6,13 +6,15 @@
 export default {
   "title": "[3stats] documentation",
   "tagline": "Dinosaurs are cool",
-  "url": "https://3stats-docs.github.io",
+  "url": "https://3stats.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "3stats",
-  "projectName": "3stats-docs",
+  "projectName": "3stats.github.io",
+  "trailingSlash": false,
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -39,9 +41,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "[3stats]",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "[3stats]",
         "src": "img/logo.svg"
       },
       "items": [
@@ -49,7 +51,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Documentation"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
