@@ -1,86 +1,43 @@
 {
-  "/__docusaurus/debug-249": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
-  "/__docusaurus/debug/config-6fc": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
-  "/__docusaurus/debug/content-f0f": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-fe1": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
-  "/__docusaurus/debug/metadata-407": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
-  "/__docusaurus/debug/registry-365": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
-  "/__docusaurus/debug/routes-c81": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-2-a-bc1"
-    }
-  },
   "/markdown-page-66d": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagec-31-ca8"
+      "plugin": "c31b4adb"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/-714": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagec-31-ca8"
+      "plugin": "c31b4adb"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   },
   "/-75c": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---4-fd-a38"
+      "plugin": "4fd8baaa"
     },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/Dashboard/intro-698": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---dashboard-introc-3-e-de4"
+    "__comp": "17896441",
+    "content": "c3ece501"
   },
   "/Decentraland/Introduction-659": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---decentraland-introduction-826-191"
+    "__comp": "17896441",
+    "content": "826001a5"
   },
   "/Decentraland/SDK-885": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---decentraland-sd-kaae-b10"
+    "__comp": "17896441",
+    "content": "aaebc73a"
   },
   "/Decentraland/SmartItem-939": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---decentraland-smart-itemdf-2-41d"
+    "__comp": "17896441",
+    "content": "df2feb76"
   },
   "/intro-283": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }

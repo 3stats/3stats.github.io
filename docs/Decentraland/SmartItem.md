@@ -3,7 +3,7 @@
 
 ## Installation
 
-To integrate the smart item in your scene, simply download [this](https://3stats.xyz/download/dclSmartTracer-latest.zip)
+To integrate the smart item in your scene, simply download [this](https://3stats.xyz/downloads/dclSmartTracer-latest.zip)
 file and import it in your builder.
 
 ### Step 1: Decentraland Builder
@@ -18,7 +18,7 @@ After clicking on the `+` button, a pop up will open asking you to select a file
 
 ![Smart Item interface](images/Step_2.png)
 
-Select the file you [downloaded](https://3stats.xyz/download/dclSmartTracer-latest.zip) and click on `Import Asset`.
+Select the file you [downloaded](https://3stats.xyz/downloads/dclSmartTracer-latest.zip) and click on `Import Asset`.
 Click `Continue` and then `Create Asset Pack`. After a brief load the item will be available.
 
 ### Step 3: Add the item to your scene

@@ -5,8 +5,8 @@
  */
 export default {
   "title": "[3stats] documentation",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://3stats.github.io",
+  "tagline": "Unleashing blockchain intelligence",
+  "url": "https://docs.3stats.xyz/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -65,10 +65,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentation",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Introduction",
               "to": "/intro"
             }
           ]
@@ -76,10 +76,6 @@ export default {
         {
           "title": "Community",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
@@ -95,12 +91,12 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/3stats"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 [3stats]"
     },
     "prism": {
       "theme": {
